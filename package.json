@@ -22,4 +22,4 @@
   }
 }
 
-"scss": "node-sass -o css/ css/"
+
