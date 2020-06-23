@@ -21,3 +21,5 @@
     "popper.js": "^1.12.9"
   }
 }
+
+"scss": "node-sass -o css/ css/"
